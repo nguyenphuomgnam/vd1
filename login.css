@@ -1,0 +1,39 @@
+*{
+    color:rgb(31, 26, 26);
+}
+form {
+    width: 302px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30%;
+    margin-bottom: auto;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 8px;
+    height: 53vh;
+}
+body{
+    height: 100vh;
+}
+.cot {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.cancaco {
+    margin-top: 10px;
+    margin-bottom: 2px;
+}
+.onhap {
+    width: 200px;
+    height: 4vh;
+}
+#haha {
+    background-color:white;
+    margin-top: 35px;
+    font-size: 14px;
+    width: 100px;
+    height: 5vh;
+    margin-bottom: 10px;
+}
